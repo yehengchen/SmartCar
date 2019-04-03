@@ -1,1 +1,1 @@
-put your training img data in here
+# Put your training img data in here
