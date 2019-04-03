@@ -11,7 +11,8 @@ This is completly based on deep learning nueral network and implented using Tens
 
 For ipmlementation and run this code follow [this BLOG link](http://www.aisangam.com/blog/real-time-face-recognition-using-facenet/). Implemention in video is shown [HERE](https://youtu.be/dLrWDUPkpIg?list=PLCK5Mm9zwPkEhwu2OOw2CgO5ikoLdR36l).
 
-## Getting Started:(make sure you have Pre-trained models .pb file)
+## Getting Started:
+### (make sure you have Pre-trained models .pb file)
   * put your Pre-trained models .pb file into './model/' file.
   
   * [data_preprocess.py](https://github.com/chenyeheng/SmartCar/blob/master/data_preprocess.py) put your face img into './train_img' and run data_preprocess.py preprocess your img output to './pre_img' file.
