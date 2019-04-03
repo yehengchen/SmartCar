@@ -1,0 +1,186 @@
+./pre_img/Driver_1/img_face_17_1.png 88 152 287 403
+./pre_img/Driver_1/img_face_50_1.png 119 103 316 364
+./pre_img/Driver_1/img_face_65_1.png 142 118 327 351
+./pre_img/Driver_1/img_face_35_1.png 93 96 302 359
+./pre_img/Driver_1/img_face_48_1.png 113 101 312 361
+./pre_img/Driver_1/img_face_61_1.png 142 109 324 336
+./pre_img/Driver_1/img_face_53_1.png 136 111 329 352
+./pre_img/Driver_1/img_face_43_1.png 113 116 308 364
+./pre_img/Driver_1/img_face_18_1.png 82 147 281 399
+./pre_img/Driver_1/img_face_62_1.png 143 117 327 350
+./pre_img/Driver_1/img_face_25_1.png 74 118 284 376
+./pre_img/Driver_1/img_face_46_1.png 115 108 312 352
+./pre_img/Driver_1/img_face_42_1.png 105 88 316 364
+./pre_img/Driver_1/img_face_22_1.png 84 156 279 401
+./pre_img/Driver_1/img_face_64_1.png 141 111 324 342
+./pre_img/Driver_1/img_face_27_1.png 74 89 289 364
+./pre_img/Driver_1/img_face_45_1.png 114 103 314 362
+./pre_img/Driver_1/img_face_63_1.png 137 108 321 337
+./pre_img/Driver_1/img_face_58_1.png 150 105 340 352
+./pre_img/Driver_1/img_face_71_1.png 128 108 318 349
+./pre_img/Driver_1/img_face_73_1.png 126 102 318 347
+./pre_img/Driver_1/img_face_13_1.png 76 165 304 440
+./pre_img/Driver_1/img_face_12_1.png 54 154 306 454
+./pre_img/Driver_1/img_face_16_1.png 94 156 295 405
+./pre_img/Driver_1/img_face_30_1.png 87 92 293 355
+./pre_img/Driver_1/img_face_40_1.png 109 96 313 356
+./pre_img/Driver_1/img_face_49_1.png 115 101 312 356
+./pre_img/Driver_1/img_face_44_1.png 114 110 311 360
+./pre_img/Driver_1/img_face_47_1.png 114 97 315 360
+./pre_img/Driver_1/img_face_51_1.png 125 102 321 354
+./pre_img/Driver_1/img_face_72_1.png 130 115 313 348
+./pre_img/Driver_1/img_face_23_1.png 83 139 286 398
+./pre_img/Driver_1/img_face_26_1.png 73 93 287 365
+./pre_img/Driver_1/img_face_15_1.png 97 158 301 416
+./pre_img/Driver_1/img_face_28_1.png 74 90 289 364
+./pre_img/Driver_1/img_face_38_1.png 107 99 314 359
+./pre_img/Driver_1/img_face_67_1.png 131 111 314 339
+./pre_img/Driver_1/img_face_74_1.png 129 106 313 344
+./pre_img/Driver_1/img_face_10_1.png 0 117 301 497
+./pre_img/Driver_1/img_face_57_1.png 149 112 338 359
+./pre_img/Driver_1/img_face_32_1.png 91 88 296 351
+./pre_img/Driver_1/img_face_29_1.png 85 86 290 358
+./pre_img/Driver_1/img_face_75_1.png 126 111 318 354
+./pre_img/Driver_1/img_face_39_1.png 104 99 311 363
+./pre_img/Driver_1/img_face_69_1.png 128 113 316 350
+./pre_img/Driver_1/img_face_24_1.png 77 137 284 384
+./pre_img/Driver_1/img_face_76_1.png 132 106 313 346
+./pre_img/Driver_1/img_face_11_1.png 28 142 302 477
+./pre_img/Driver_1/img_face_33_1.png 89 89 293 360
+./pre_img/Driver_1/img_face_41_1.png 107 95 313 357
+./pre_img/Driver_1/img_face_56_1.png 148 105 338 350
+./pre_img/Driver_1/img_face_20_1.png 79 144 277 399
+./pre_img/Driver_1/img_face_66_1.png 142 121 325 352
+./pre_img/Driver_1/img_face_37_1.png 106 98 313 362
+./pre_img/Driver_1/img_face_59_1.png 151 118 335 357
+./pre_img/Driver_1/img_face_31_1.png 90 88 295 352
+./pre_img/Driver_1/img_face_54_1.png 136 110 328 346
+./pre_img/Driver_1/img_face_60_1.png 147 118 330 351
+./pre_img/Driver_1/img_face_19_1.png 79 147 278 401
+./pre_img/Driver_1/img_face_21_1.png 79 147 276 394
+./pre_img/Driver_1/img_face_55_1.png 146 121 332 350
+./pre_img/Driver_1/img_face_36_1.png 102 96 307 356
+./pre_img/Driver_1/img_face_70_1.png 120 114 306 344
+./pre_img/Driver_1/img_face_68_1.png 124 109 311 345
+./pre_img/Driver_1/img_face_34_1.png 85 92 298 360
+./pre_img/Driver_1/img_face_52_1.png 132 103 326 350
+./pre_img/Driver_1/img_face_14_1.png 95 174 306 431
+./pre_img/passenger_2/img_face_11_2.png
+./pre_img/passenger_2/img_face_8_2.png
+./pre_img/passenger_2/img_face_75_2.png 126 142 244 286
+./pre_img/passenger_2/img_face_66_2.png 126 138 240 280
+./pre_img/passenger_2/img_face_50_2.png 132 126 259 283
+./pre_img/passenger_2/img_face_14_2.png
+./pre_img/passenger_2/img_face_36_2.png
+./pre_img/passenger_2/img_face_68_2.png 128 143 238 279
+./pre_img/passenger_2/img_face_67_2.png 130 137 242 279
+./pre_img/passenger_2/img_face_55_2.png 127 134 243 281
+./pre_img/passenger_2/img_face_47_2.png 127 136 237 276
+./pre_img/passenger_2/img_face_53_2.png 127 135 240 277
+./pre_img/passenger_2/img_face_58_2.png 125 138 237 280
+./pre_img/passenger_2/img_face_10_2.png 90 218 201 346
+./pre_img/passenger_2/img_face_72_2.png 128 144 242 286
+./pre_img/passenger_2/img_face_5_2.png 96 234 190 347
+./pre_img/passenger_2/img_face_23_2.png 98 201 209 333
+./pre_img/passenger_2/img_face_60_2.png 126 139 238 281
+./pre_img/passenger_2/img_face_73_2.png 125 143 242 284
+./pre_img/passenger_2/img_face_18_2.png
+./pre_img/passenger_2/img_face_46_2.png 133 134 249 276
+./pre_img/passenger_2/img_face_56_2.png 127 139 236 279
+./pre_img/passenger_2/img_face_54_2.png 132 139 242 277
+./pre_img/passenger_2/img_face_70_2.png 137 154 246 290
+./pre_img/passenger_2/img_face_4_2.png 91 220 203 351
+./pre_img/passenger_2/img_face_7_2.png
+./pre_img/passenger_2/img_face_28_2.png 98 150 214 295
+./pre_img/passenger_2/img_face_69_2.png 130 137 240 279
+./pre_img/passenger_2/img_face_44_2.png 136 140 251 278
+./pre_img/passenger_2/img_face_65_2.png 128 140 238 281
+./pre_img/passenger_2/img_face_20_2.png
+./pre_img/passenger_2/img_face_1_2.png 92 224 197 341
+./pre_img/passenger_2/img_face_6_2.png
+./pre_img/passenger_2/img_face_15_2.png
+./pre_img/passenger_2/img_face_59_2.png 127 137 239 280
+./pre_img/passenger_2/img_face_9_2.png
+./pre_img/passenger_2/img_face_33_2.png 113 147 234 295
+./pre_img/passenger_2/img_face_52_2.png 133 131 258 283
+./pre_img/passenger_2/img_face_31_2.png 117 141 238 292
+./pre_img/passenger_2/img_face_3_2.png 88 213 203 346
+./pre_img/passenger_2/img_face_39_2.png 124 98 253 269
+./pre_img/passenger_2/img_face_2_2.png 98 225 196 332
+./pre_img/passenger_2/img_face_32_2.png 119 140 246 298
+./pre_img/passenger_2/img_face_49_2.png 134 136 249 278
+./pre_img/passenger_2/img_face_74_2.png 124 145 242 286
+./pre_img/passenger_2/img_face_27_2.png 93 150 220 308
+./pre_img/passenger_2/img_face_34_2.png 118 141 242 297
+./pre_img/passenger_2/img_face_24_2.png
+./pre_img/passenger_2/img_face_48_2.png 133 136 248 279
+./pre_img/passenger_2/img_face_64_2.png 128 135 243 282
+./pre_img/passenger_2/img_face_16_2.png
+./pre_img/passenger_2/img_face_42_2.png 137 129 256 274
+./pre_img/passenger_2/img_face_41_2.png 129 115 252 271
+./pre_img/passenger_2/img_face_63_2.png 125 140 236 282
+./pre_img/passenger_2/img_face_43_2.png 128 137 236 272
+./pre_img/passenger_2/img_face_35_2.png 118 129 251 295
+./pre_img/passenger_2/img_face_22_2.png
+./pre_img/passenger_2/img_face_45_2.png 126 141 233 276
+./pre_img/passenger_2/img_face_30_2.png 115 142 238 295
+./pre_img/passenger_2/img_face_12_2.png
+./pre_img/passenger_2/img_face_29_2.png 107 143 228 296
+./pre_img/passenger_2/img_face_37_2.png 166 156 265 294
+./pre_img/passenger_2/img_face_51_2.png 133 133 245 276
+./pre_img/passenger_2/img_face_38_2.png 126 115 248 263
+./pre_img/passenger_2/img_face_26_2.png 84 159 210 312
+./pre_img/passenger_2/img_face_19_2.png
+./pre_img/passenger_2/img_face_57_2.png 124 141 235 281
+./pre_img/passenger_2/img_face_62_2.png 128 141 238 278
+./pre_img/passenger_2/img_face_17_2.png
+./pre_img/passenger_2/img_face_61_2.png 129 141 241 278
+./pre_img/passenger_2/img_face_71_2.png 125 139 245 287
+./pre_img/passenger_2/img_face_76_2.png 127 141 243 285
+./pre_img/passenger_2/img_face_40_2.png 129 111 255 271
+./pre_img/passenger_2/img_face_25_2.png 84 171 209 329
+./pre_img/passenger_2/img_face_13_2.png
+./pre_img/passenger_2/img_face_21_2.png
+./pre_img/passenger_3/Screenshot from 2019-02-19 01-04-32.png 95 89 176 185
+./pre_img/passenger_3/Screenshot from 2019-02-19 01-04-07.png 66 58 148 155
+./pre_img/passenger_3/Screenshot from 2019-02-19 01-05-50.png 116 129 190 220
+./pre_img/passenger_3/Screenshot from 2019-02-19 01-03-56.png 119 88 193 180
+./pre_img/passenger_3/Screenshot from 2019-02-19 01-03-21.png 81 101 156 190
+./pre_img/passenger_3/Screenshot from 2019-02-19 01-05-24.png 154 132 234 225
+./pre_img/passenger_3/Screenshot from 2019-02-19 01-02-34.png 94 115 166 202
+./pre_img/passenger_3/Screenshot from 2019-02-19 01-03-28.png 121 101 202 193
+./pre_img/passenger_3/Screenshot from 2019-02-19 01-05-11.png 70 107 153 207
+./pre_img/passenger_3/Screenshot from 2019-02-19 01-03-49.png 126 92 199 179
+./pre_img/passenger_3/Screenshot from 2019-02-19 01-04-53.png 123 115 196 199
+./pre_img/passenger_3/Screenshot from 2019-02-19 01-05-56.png 104 128 180 218
+./pre_img/passenger_3/Screenshot from 2019-02-19 01-06-06.png 126 110 206 205
+./pre_img/passenger_3/Screenshot from 2019-02-19 01-04-15.png 98 88 179 180
+./pre_img/passenger_3/Screenshot from 2019-02-19 01-04-21.png 135 101 216 195
+./pre_img/passenger_3/Screenshot from 2019-02-19 01-03-35.png 66 87 140 173
+./pre_img/passenger_4/Screenshot from 2019-02-19 01-09-58.png
+./pre_img/passenger_4/Screenshot from 2019-02-19 01-13-09.png 80 106 180 222
+./pre_img/passenger_4/Screenshot from 2019-02-19 01-13-16.png 87 128 178 230
+./pre_img/passenger_4/Screenshot from 2019-02-19 01-09-45.png 64 57 156 165
+./pre_img/passenger_4/Screenshot from 2019-02-19 01-11-09.png 61 109 180 247
+./pre_img/passenger_4/Screenshot from 2019-02-19 01-11-39.png 43 117 154 246
+./pre_img/passenger_4/Screenshot from 2019-02-19 01-12-05.png
+./pre_img/passenger_4/Screenshot from 2019-02-19 01-11-32.png 34 123 151 259
+./pre_img/passenger_4/Screenshot from 2019-02-19 01-13-30.png 81 118 172 222
+./pre_img/passenger_4/Screenshot from 2019-02-19 01-10-34.png 85 103 185 213
+./pre_img/passenger_4/Screenshot from 2019-02-19 01-12-19.png
+./pre_img/passenger_4/Screenshot from 2019-02-19 01-13-42.png 67 97 166 210
+./pre_img/passenger_4/Screenshot from 2019-02-19 01-10-09.png 51 129 145 235
+./pre_img/passenger_4/Screenshot from 2019-02-19 01-10-17.png 59 89 145 185
+./pre_img/passenger_4/Screenshot from 2019-02-19 01-11-15.png 51 137 166 267
+./pre_img/passenger_4/Screenshot from 2019-02-19 01-12-12.png 77 152 167 253
+./pre_img/passenger_4/Screenshot from 2019-02-19 01-12-25.png 53 105 144 212
+./pre_img/passenger_4/Screenshot from 2019-02-19 01-12-59.png 64 110 149 206
+./pre_img/passenger_4/Screenshot from 2019-02-19 01-11-23.png 55 176 159 296
+./pre_img/passenger_4/Screenshot from 2019-02-19 01-10-22.png 66 108 158 220
+./pre_img/passenger_4/Screenshot from 2019-02-19 01-13-05.png 83 123 174 226
+./pre_img/passenger_4/Screenshot from 2019-02-19 01-10-04.png 76 89 163 186
+./pre_img/passenger_4/Screenshot from 2019-02-19 01-12-54.png 57 100 143 198
+./pre_img/passenger_4/Screenshot from 2019-02-19 01-12-36.png
+./pre_img/passenger_4/Screenshot from 2019-02-19 01-10-28.png
+./pre_img/passenger_4/Screenshot from 2019-02-19 01-10-39.png
+./pre_img/passenger_4/Screenshot from 2019-02-19 01-10-56.png 61 138 167 261
