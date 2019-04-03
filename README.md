@@ -25,7 +25,7 @@ For ipmlementation and run this code follow [this BLOG link](http://www.aisangam
 
 
 ### Usage:
-facenet is defined and implementation of facenet paper published in Arxiv (FaceNet: A Unified Embedding for Face Recognition and Clustering).
-[Github link](https://github.com/davidsandberg/facenet)
-[arXiv.org](https://arxiv.org/abs/1503.03832)
+Facenet is defined and implementation of facenet paper published in Arxiv (FaceNet: A Unified Embedding for Face Recognition and Clustering).
+davidsandberg/facenet - [Github link](https://github.com/davidsandberg/facenet) <br>
+FaceNet paper - [arXiv.org](https://arxiv.org/abs/1503.03832)
 The project also uses ideas from the paper "Deep Face Recognition" from the Visual Geometry Group at Oxford.
