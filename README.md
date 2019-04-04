@@ -14,13 +14,13 @@ For ipmlementation and run this code follow [this BLOG link](http://www.aisangam
 
 ## Getting Started:
 ### (make sure you have Pre-trained models .pb file)
-  * put your Pre-trained models .pb file into './model/' file.
+  * put your Pre-trained models .pb file under './model/' folder.
   
-  * [data_preprocess.py](https://github.com/chenyeheng/SmartCar/blob/master/data_preprocess.py) put your face img into './train_img' and run data_preprocess.py preprocess your img output to './pre_img' file.
+  * [data_preprocess.py](https://github.com/chenyeheng/SmartCar/blob/master/data_preprocess.py) put your face img under './train_img' folder and run data_preprocess.py output preprocessed img to './pre_img' folder.
   
-  * [train_main.py](https://github.com/chenyeheng/SmartCar/blob/master/train_main.py) training your own data './pre_img' and output classifier.pkl file to './class/' file.
+  * [train_main.py](https://github.com/chenyeheng/SmartCar/blob/master/train_main.py) training your own data under './pre_img' folder and output classifier.pkl file to './class/' folder.
   
-  * [identify_face_image.py](https://github.com/chenyeheng/SmartCar/blob/master/identify_face_image.py) face recognition on your own imgs(change 'input_image' path)
+  * [identify_face_image.py](https://github.com/chenyeheng/SmartCar/blob/master/identify_face_image.py) face recognition on your own images(change 'input_image' path)
   
   * [identify_face_video.py](https://github.com/chenyeheng/SmartCar/blob/master/identify_face_video.py) face recognition on your own videos(change 'input_video' path)
 
