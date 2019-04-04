@@ -14,7 +14,7 @@ For ipmlementation and run this code follow [this BLOG link](http://www.aisangam
 
 ## Getting Started:
 ### (make sure you have Pre-trained models .pb file)
-  * put your Pre-trained models __20170512-110547.pb__ file under __'./model/'__ folder.
+  * Put your Pre-trained models __20170512-110547.pb__ file under __'./model/'__ folder.
   
   * [data_preprocess.py](https://github.com/chenyeheng/SmartCar/blob/master/data_preprocess.py) put img under __'./train_img'__ folder and run data_preprocess.py output preprocessed img to __'./pre_img'__ folder.
   
