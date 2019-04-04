@@ -16,7 +16,7 @@ For ipmlementation and run this code follow [this BLOG link](http://www.aisangam
 ### (make sure you have Pre-trained models .pb file)
   * put your Pre-trained models .pb file under __'./model/'__ folder.
   
-  * [data_preprocess.py](https://github.com/chenyeheng/SmartCar/blob/master/data_preprocess.py) put your face img under __'./train_img'__ folder and run data_preprocess.py output preprocessed img to __'./pre_img'__ folder.
+  * [data_preprocess.py](https://github.com/chenyeheng/SmartCar/blob/master/data_preprocess.py) put img under __'./train_img'__ folder and run data_preprocess.py output preprocessed img to __'./pre_img'__ folder.
   
   * [train_main.py](https://github.com/chenyeheng/SmartCar/blob/master/train_main.py) training your own data under __'./pre_img'__ folder and output __classifier.pkl__ file to __'./class/'__ folder.
   
