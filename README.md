@@ -10,7 +10,7 @@ This is completly based on deep learning nueral network and implented using Tens
 - Opencv (3.4.4.19)
 
 For ipmlementation and run this code follow [this BLOG link](http://www.aisangam.com/blog/real-time-face-recognition-using-facenet/). Implemention in video is shown [HERE](https://youtu.be/dLrWDUPkpIg?list=PLCK5Mm9zwPkEhwu2OOw2CgO5ikoLdR36l).
-<br>FaceNet Pre-trained models: [20170512-110547.pb]https://drive.google.com/drive/folders/1_vMkaL0aDF2SacLegiVEiOC9n64AXm7M 
+<br>FaceNet Pre-trained models: [20170512-110547.pb](https://drive.google.com/drive/folders/1_vMkaL0aDF2SacLegiVEiOC9n64AXm7M）
 
 ## Getting Started:
 ### (make sure you have Pre-trained models .pb file)
