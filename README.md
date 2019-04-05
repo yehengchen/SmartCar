@@ -18,7 +18,7 @@ For ipmlementation and run this code follow [this BLOG link](http://www.aisangam
   
   * [data_preprocess.py](https://github.com/chenyeheng/SmartCar/blob/master/data_preprocess.py) put img under __'./train_img'__ folder and run data_preprocess.py output preprocessed img to __'./pre_img'__ folder.
   
-  * [train_classifier.py](https://github.com/chenyeheng/SmartCar/blob/master/train_classifier.py) training your own data under __'./pre_img'__ folder and output __classifier.pkl__ file to __'./class/'__ folder.
+  * [train_classifier.py](https://github.com/chenyeheng/SmartCar/blob/master/train_classifier.py) training your own data under __'./pre_img'__ folder and output __classifier.pkl__ file to __'./classifier/'__ folder.
   
   * [identify_face_image.py](https://github.com/chenyeheng/SmartCar/blob/master/identify_face_image.py) face recognition on your own images(change 'input_image' path)
   
