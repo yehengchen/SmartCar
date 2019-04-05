@@ -6,7 +6,7 @@ from classifier import training
 
 datadir = './pre_img'
 modeldir = './model/20170512-110547.pb'
-classifier_filename = './class/classifier_2017.pkl'
+classifier_filename = './classifier/classifier_2017.pkl'
 print ("Training Start")
 obj=training(datadir,modeldir,classifier_filename)
 get_file=obj.main_train()
