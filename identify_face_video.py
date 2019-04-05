@@ -11,9 +11,9 @@ import os
 import time
 import pickle
 
-input_video="car_test_video.avi"
+input_video="YOUR VIDEO PATH"
 modeldir = './model/20170512-110547.pb'
-classifier_filename = './class/classifier_2017.pkl'
+classifier_filename = './classifier/classifier_2017.pkl'
 npy='./npy'
 train_img="./train_img"
 now = time.strftime("%Y-%m-%d-%H_%M_%S",time.localtime(time.time()))
