@@ -29,5 +29,5 @@ For ipmlementation and run this code follow [this BLOG link](http://www.aisangam
 Facenet is defined and implementation of facenet paper published in Arxiv (FaceNet: A Unified Embedding for Face Recognition and Clustering).The project also uses ideas from the paper "Deep Face Recognition" from the Visual Geometry Group at Oxford.<br>
 davidsandberg/facenet - [Github link](https://github.com/davidsandberg/facenet) <br>
 FaceNet - ["FaceNet: A Unified Embedding for Face Recognition and Clustering"](https://arxiv.org/abs/1503.03832)<br>
-MTCNN - ["Joint Face Detection and Alignment using Multi-task Cascaded Convolutional Networks"](https://kpzhang93.github.io/MTCNN_face_detection_alignment/index.html)
+Face alignment using MTCNN - ["Joint Face Detection and Alignment using Multi-task Cascaded Convolutional Networks"](https://kpzhang93.github.io/MTCNN_face_detection_alignment/index.html)
 <br>@AI Sangam
