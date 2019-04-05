@@ -12,9 +12,9 @@ import time
 import pickle
 import sys
 
-img_path='RGB_Record_Data_06-01-23_0.rgb-42.bmp'
+img_path='YOUR IMAGE PATH'
 modeldir = './model/20170511-185253.pb'
-classifier_filename = './class/classifier.pkl'
+classifier_filename = './classifier/classifier.pkl'
 npy='./npy'
 train_img="./train_img"
 
