@@ -126,9 +126,19 @@ with tf.Graph().as_default():
                             print(HumanNames)
                             for H_i in HumanNames:
                                 if HumanNames[best_class_indices[0]] == H_i:
-                                    result_names = HumanNames[best_class_indices[0]]
-                                    cv2.putText(frame, result_names, (text_x, text_y),cv2.FONT_HERSHEY_COMPLEX_SMALL,0.8, (0, 255, 0), thickness=1, lineType=1)
-                else:
+                                    #Unknown thre < 0.65
+                                    if best_class_probabilities < 0.65:
+                                        result_names = "Unknown"
+                                        cv2.putText(frame, result_names, (text_x, text_y), cv2.FONT_HERSHEY_COMPLEX,0.5, (0, 255, 0), thickness=1, lineType=1)
+                                    
+                                    elif best_class_probabilities >= 0.65:
+                                         result_names = HumanNames[best_class_indices[0]]
+                                         cv2.putText(frame, result_names, (text_x, text_y), cv2.FONT_HERSHEY_COMPLEX,0.5, (0, 255, 0), thickness=1, lineType=1)
+                                    
+                                    #result_names = HumanNames[best_class_indices[0]]
+                                    #cv2.putText(frame, result_names, (text_x, text_y),cv2.FONT_HERSHEY_COMPLEX_SMALL,0.8, (0, 255, 0), thickness=1, lineType=1)
+                                          
+                else:   
                     print('Alignment Failure')
             # c+=1
             out.write(frame)
