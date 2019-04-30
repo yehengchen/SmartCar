@@ -11,7 +11,9 @@ This is completly based on deep learning nueral network and implented using Tens
 
 For ipmlementation and run this code follow [this BLOG link](http://www.aisangam.com/blog/real-time-face-recognition-using-facenet/). Implemention in video is shown [YouTube](https://www.youtube.com/watch?v=cAblAimZLgo).
 <br>Download FaceNet Pre-trained models: 20170512-110547.pb - [[Google Drive]](https://drive.google.com/drive/folders/1_vMkaL0aDF2SacLegiVEiOC9n64AXm7M) / [[Baidu Drive]](https://pan.baidu.com/disk/home?errno=0&errmsg=Auth%20Login%20Sucess&&bduss=&ssnerror=0&traceid=#/all?vmode=list&path=%2FGithub%2Ffacenet)
+
 Training using the VGGFace2 dataset - [[Link]](https://github.com/davidsandberg/facenet/wiki/Training-using-the-VGGFace2-dataset)
+***
 
 ## Getting Started:
 ### (make sure you have Pre-trained models .pb file)
