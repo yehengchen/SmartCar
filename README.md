@@ -11,6 +11,7 @@ This is completly based on deep learning nueral network and implented using Tens
 
 For ipmlementation and run this code follow [this BLOG link](http://www.aisangam.com/blog/real-time-face-recognition-using-facenet/). Implemention in video is shown [YouTube](https://www.youtube.com/watch?v=cAblAimZLgo).
 <br>Download FaceNet Pre-trained models: 20170512-110547.pb - [[Google Drive]](https://drive.google.com/drive/folders/1_vMkaL0aDF2SacLegiVEiOC9n64AXm7M) / [[Baidu Drive]](https://pan.baidu.com/disk/home?errno=0&errmsg=Auth%20Login%20Sucess&&bduss=&ssnerror=0&traceid=#/all?vmode=list&path=%2FGithub%2Ffacenet)
+Training using the VGGFace2 dataset - [[Link]](https://github.com/davidsandberg/facenet/wiki/Training-using-the-VGGFace2-dataset)
 
 ## Getting Started:
 ### (make sure you have Pre-trained models .pb file)
@@ -27,7 +28,7 @@ For ipmlementation and run this code follow [this BLOG link](http://www.aisangam
 
 ## References:
 Facenet is defined and implementation of facenet paper published in Arxiv (FaceNet: A Unified Embedding for Face Recognition and Clustering).The project also uses ideas from the paper "Deep Face Recognition" from the Visual Geometry Group at Oxford.<br>
-davidsandberg/facenet - [Github link](https://github.com/davidsandberg/facenet) <br>
+davidsandberg/facenet - [[Github]](https://github.com/davidsandberg/facenet) <br>
 FaceNet - ["FaceNet: A Unified Embedding for Face Recognition and Clustering"](https://arxiv.org/abs/1503.03832)<br>
 Face alignment using MTCNN - ["Joint Face Detection and Alignment using Multi-task Cascaded Convolutional Networks"](https://kpzhang93.github.io/MTCNN_face_detection_alignment/index.html)
 <br>@AI Sangam
