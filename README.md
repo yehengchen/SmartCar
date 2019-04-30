@@ -1,5 +1,5 @@
 # Facenet: Real-time-FaceRecognition
-## SmartCar - face recognition (Driver/Passenger) 
+## SmartCar - face recognition (Driver / Passenger) 
 This is completly based on deep learning nueral network and implented using Tensorflow framework. Here you will get how to implement fastly and you can find code at github and uses is demonstrated at YouTube.
 
 ### Installation Python Libraries:
