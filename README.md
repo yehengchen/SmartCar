@@ -1,4 +1,4 @@
-# Facenet: Real-time-FaceRecognition
+# Real-time-FaceRecognition
 
 <img src="https://github.com/yehengchen/FaceNet-FaceRecognition/blob/master/output_video/output.gif" width="60%" height="60%">
 
