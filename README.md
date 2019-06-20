@@ -1,7 +1,5 @@
 # Real-time-FaceRecognition
 
-<img src="https://github.com/yehengchen/FaceNet-FaceRecognition/blob/master/output_video/output.gif" width="60%" height="60%">
-
 ## SmartCar - face recognition (Driver / Passenger) 
 This is completly based on deep learning nueral network and implented using Tensorflow framework. Here you will get how to implement fastly and you can find code at github and uses is demonstrated at YouTube.
 
