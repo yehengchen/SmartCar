@@ -35,4 +35,6 @@ davidsandberg/facenet - [[Github]](https://github.com/davidsandberg/facenet) <br
 FaceNet - ["FaceNet: A Unified Embedding for Face Recognition and Clustering"](https://arxiv.org/abs/1503.03832)<br>
 Face alignment using MTCNN - ["Joint Face Detection and Alignment using Multi-task Cascaded Convolutional Networks"](https://kpzhang93.github.io/MTCNN_face_detection_alignment/index.html)
 <br>@AI Sangam
+
+
 <img src="" width="60%" height="60%">
