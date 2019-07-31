@@ -37,4 +37,4 @@ Face alignment using MTCNN - ["Joint Face Detection and Alignment using Multi-ta
 <br>@AI Sangam
 
 
-<img src="" width="60%" height="60%">
+<img src="https://github.com/yehengchen/FaceNet-FaceRecognition/blob/master/output_video/output.gif" width="60%" height="60%">
