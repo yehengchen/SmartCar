@@ -16,6 +16,8 @@ For ipmlementation and run this code follow [this BLOG link](http://www.aisangam
 Training using the VGGFace2 dataset - [[Link]](https://github.com/davidsandberg/facenet/wiki/Training-using-the-VGGFace2-dataset)
 ***
 
+<img src="https://github.com/yehengchen/FaceNet-FaceRecognition/blob/master/output_video/output.gif" width="60%" height="60%">
+
 ## Getting Started:
 ### (make sure you have Pre-trained models .pb file)
   * Put your Pre-trained models __20170512-110547.pb__ file under __'./model/'__ folder.
@@ -37,4 +39,3 @@ Face alignment using MTCNN - ["Joint Face Detection and Alignment using Multi-ta
 <br>@AI Sangam
 
 
-<img src="https://github.com/yehengchen/FaceNet-FaceRecognition/blob/master/output_video/output.gif" width="60%" height="60%">
