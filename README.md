@@ -34,7 +34,7 @@ Training using the VGGFace2 dataset - [[Link]](https://github.com/davidsandberg/
 ***
 ## SmartCar - head pose estimation (Driver) 
 
-<div align="center">
+<div align="left">
   <img src="https://i.imgur.com/K7jhHOg.png" width="306">   <img src="https://github.com/yehengchen/HeadPoseEstimation/blob/master/output/video/test.gif" width="240"><br><br>
 </div>
 
