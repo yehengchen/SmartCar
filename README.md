@@ -32,6 +32,7 @@ Training using the VGGFace2 dataset - [[Link]](https://github.com/davidsandberg/
 
 
 ***
+## SmartCar - head pose estimation (Driver) 
 
 <div align="center">
   <img src="https://i.imgur.com/K7jhHOg.png" width="306">   <img src="https://github.com/yehengchen/HeadPoseEstimation/blob/master/output/video/test.gif" width="240"><br><br>
@@ -49,7 +50,7 @@ For details about the method and quantitative results please check the [paper](h
 To use please install [PyTorch](http://pytorch.org/) and [OpenCV](https://opencv.org/) (for video) - I believe that's all you need apart from usual libraries such as numpy. You need a GPU to run Hopenet (for now).
 ***
 
-# Getting Started:
+## Getting Started:
 To test on a video using dlib face detections (DLIB_MODEL: mmod_human_face_detector.dat):
 ```bash
 python3 code/test_on_video_dlib.py --snapshot PATH_OF_PRE-TRAINED-MODELS --face_model PATH_OF_DLIB_MODEL --video PATH_OF_VIDEO --output_string STRING_TO_APPEND_TO_OUTPUT --n_frames N_OF_FRAMES_TO_PROCESS --fps FPS_OF_SOURCE_VIDEO
